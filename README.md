@@ -7,7 +7,7 @@ Je vous présente mon projet de Todo_List en Flutter. Ce projet a été réalis�
 
 ***
 
-## **Functionalities**
+## **Functionalitée**
 
 - Créer une nouvelle tache
 - Valider la tache
@@ -15,7 +15,7 @@ Je vous présente mon projet de Todo_List en Flutter. Ce projet a été réalis�
 
 ***
 
-## **Constraints**
+## **Constraintes**
 
 - Le Projet devait utiliser le framework Flutter
 - On doit créer une tache
@@ -29,6 +29,6 @@ Je vous présente mon projet de Todo_List en Flutter. Ce projet a été réalis�
 - framework : [Flutter](https://flutter.dev/)
 
 ***
-## 👨‍💻 TEAM
+## 👨‍💻 EQUIPE
 
 >CHEVALIER Maxime  https://github.com/MaxChevalier
